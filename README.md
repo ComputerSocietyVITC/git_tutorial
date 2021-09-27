@@ -1,2 +1,4 @@
-# git_tutorial
-A repository for teaching git and github.
+# github_tutorial
+
+
+Mainak made these changes _voila_!
